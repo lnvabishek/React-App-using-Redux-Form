@@ -2,13 +2,15 @@
 
 This project was React App using Redux-Form
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### React App hosted on the below link
+## React App hosted on the below link
 
 https://lnvabishek.github.io/React-App-using-Redux-Form/
+
+
+### Available Scripts
+
+In the project directory, you can run:
 
 #### `npm start`
 
